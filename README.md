@@ -9,10 +9,13 @@
 > Desafio 06 do Bootcamp simulando transações, saldo em conta, extrato, com upload de imagens utilizando Multer.
 
 ## Dependencies
-Express JS v^4.17.1
-Jest v^25.3.0
-Multer v^1.4.2
-TypeScript v^3.8.3
+
+<p>
+<img alt="Express" src="https://img.shields.io/badge/express-4.17.1-blue.svg?cacheSeconds=2592000" />
+<img alt="Jest" src="https://img.shields.io/badge/jest-25.3.0-blue.svg?cacheSeconds=2592000" />
+<img alt="Multer" src="https://img.shields.io/badge/multer-1.4.2-blue.svg?cacheSeconds=2592000" />
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-3.8.3-blue.svg?cacheSeconds=2592000" />
+</p>
 
 ## Install
 
@@ -22,11 +25,12 @@ yarn
 
 ## Usage
 
-```sh
 <b>yarn start </b> to run the application
+<br>
 <b>yarn dev:server</b> to run development server
+<br>
 <b>yarn typeorm</b> to run TypeORM lib that will make the database usable
-```
+<br>
 
 ## Run tests
 
